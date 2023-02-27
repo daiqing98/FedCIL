@@ -1,2 +1,2 @@
 # FedCIL
-Code for ICLR 2023 Paper Better Generative Replay for Continual Federated Learning (Coming Soon)
+Code for ICLR 2023 Paper Better Generative Replay for Continual Federated Learning
