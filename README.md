@@ -12,6 +12,9 @@ Install some of required packages. You can also install them manually.
 pip install -r requirements.txt # install requirements
 ```
 
+Download dataset here: [Google Drive](https://drive.google.com/file/d/1F7li0NbFWbdaMsqpGUGevEYbT8TAsAx3/view?usp=share_link).
+Unzip this file and place it in the root directory.
+
 To run our models:
 
 ```
