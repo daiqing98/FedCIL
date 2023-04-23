@@ -6,8 +6,6 @@
 
 ## Usage
 
----
-
 Install some of required packages. You can also install them manually.
 
 ```
@@ -23,8 +21,6 @@ sh run-ous.sh # run generative replay based models
 
 
 ## Note
-
-------
 
 In the generative replay module, for the generative model, we adopt the commonly used backbone generative model (WGAN) in [Deep Generative Replay](https://github.com/kuc2477/pytorch-deep-generative-replay) (DGR). As specified in the paper, the backbone AC-GAN in our FedCIL is a tiny model with the similar structure of the WGAN in the above DGR implementation.
 
